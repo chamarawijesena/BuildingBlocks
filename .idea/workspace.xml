@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07cc62d5-3899-492f-a9cf-882adb8f1b33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/asyncIO/block1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asyncIO/terms.py" beforeDir="false" afterPath="$PROJECT_DIR$/asyncIO/terms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
